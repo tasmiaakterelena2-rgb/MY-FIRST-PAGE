@@ -1,0 +1,13 @@
+
+body {
+ background-image: url("https://img.freepik.com/premium-photo/abstract-background-backgrounds-outdoors-purple_53876-1173305.jpg?semt=ais_hybrid&w=740&q=80");
+ background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+p {
+    font-size: 50px;
+    font-style: italic;
+    font-weight: 700;
+    color: rgb(23, 25, 25);
+}
