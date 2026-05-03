@@ -1,0 +1,41 @@
+body {
+    background-image: url("https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjU0NmJhdGNoMy1teW50LTM0LWJhZGdld2F0ZXJjb2xvcl8xLmpwZw.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+h1 {
+    text-decoration: underline;
+}
+    button { background-color:rgb(230, 183, 150); 
+    color:rgb(17, 17, 17);
+    border:2px solid rgb(4, 4, 4);
+    padding:3px 20px; 
+    border-radius:25px;
+    font-size:10px; 
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight:bold;
+}
+a  { text-decoration:none;
+color: black;
+}
+p#one { font-style: italic;
+    font-size:18px;
+    max-width: 1000px;
+    line-height: 30px;
+    letter-spacing: 2px;
+    font-weight: 500;
+    margin: 0;
+}
+
+p#z {
+    font-size: 20px;
+    text-decoration: underline;
+    font-style: normal;
+    font-weight: 600;
+    color: rgb(23, 25, 25);
+}
+
+
+
